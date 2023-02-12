@@ -1,4 +1,4 @@
-# HackBrewer HACKATHON - Home Boys
+# HACK BREWER HACKATHON - Home Boys
 ## Prediction of House Rents in regions specified.
 
 This is the github repository created for the End to End Machine Learning project done by: Divyansh Gupta, Tanmay Shukla.
